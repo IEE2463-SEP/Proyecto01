@@ -6,7 +6,7 @@ Informacion para el desarrollo del proyecto 01:
 * En este [link](https://github.com/IEE2463-SEP/Proyecto01/blob/main/Informe_Proyecto_1_SEP.zip) encontrará la plantilla en overleaf para l enterga del informe asociado a su proyecto. 
 
 
-La rúbrica de evaluación para el avance parcial del proyecto 1 se encuentr en este [link]()
+La rúbrica de evaluación para el avance parcial del proyecto 1 se encuentr en este [link](https://github.com/IEE2463-SEP/Proyecto01/blob/main/Rubrica_Avance_Proyecto_01_IEE2463.pdf)
 
   Cualquier duda asociada al proyecto debe ser subida como un "issue" en este repositorio.
 
